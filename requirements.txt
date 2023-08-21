@@ -1,0 +1,7 @@
+openapi
+gpt_index==0.4.24
+PyPDF2
+PyCryptodome
+streamlit
+langchain==0.0.118
+yfinance
