@@ -94,10 +94,10 @@ git push origin feature/your-feature-name
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/mexmarv/support-function-chatbot/LICENSE) file for details.
 
 ---
 
-This chatbot is powered by OpenAI's GPT-3.5 Turbo model and was developed by [Marvin Nahmias](https://github.com/your-username).
+This chatbot is powered by OpenAI's GPT-3.5 Turbo model and was developed by [Marvin Nahmias](https://github.com/mexmarv).
 
-If you have any questions or encounter any issues, please feel free to [create an issue](https://github.com/your-username/your-chatbot-repo/issues) on this repository.
+If you have any questions or encounter any issues, please feel free to [create an issue](https://github.com/mexmarv/support-function-chatbot/issues) on this repository.
