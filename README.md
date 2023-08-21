@@ -9,7 +9,7 @@ To run this chatbot, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/support-function-chatbot.git
+git clone https://github.com/mexmarv/support-function-chatbot.git
 ```
 
 2. Navigate to the project directory:
